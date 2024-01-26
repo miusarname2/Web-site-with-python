@@ -9,7 +9,7 @@ This is a simple Flask web application that serves two routes: `/` and `/about`.
 2. Clone this repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/miusarname/Web-site-with-python.git
     ```
 
 3. Install Flask using pip:
@@ -51,7 +51,7 @@ This is a simple Flask web application that serves two routes: `/` and `/about`.
 2. このリポジトリをクローンします：
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/miusarname/Web-site-with-python.git
     ```
 
 3. pip を使用して Flask をインストールします：
@@ -95,7 +95,7 @@ This is a simple Flask web application that serves two routes: `/` and `/about`.
 2. 克隆此存储库：
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/miusarname/Web-site-with-python.git
     ```
 
 3. 使用 pip 安装 Flask：
